@@ -1,0 +1,1 @@
+Esse programa utiliza funções para realizar as conversões entre as diferentes escalas de temperatura. A função main() é responsável por gerenciar o menu e chamar as funções de conversão correspondentes.
